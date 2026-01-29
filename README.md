@@ -46,9 +46,9 @@ project/
 ├── models/
 ├── logs/
 ├── notebooks/
-    ├── 1-TransformerComparison.ipynb
-    ├── 2-ModelValidation.ipynb
-    └── 3-XAI.ipynb
+│   ├── 1-TransformerComparison.ipynb
+│   ├── 2-ModelValidation.ipynb
+│   └── 3-XAI.ipynb
 ├── README.md
 └── requirements.txt
 ```
