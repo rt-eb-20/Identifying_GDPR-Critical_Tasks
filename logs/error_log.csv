@@ -1,0 +1,256 @@
+timestamp,model_name,error_message
+2026-01-14 16:03:57,AndreaSimeri/LegalBERT_GDPR,"404 Client Error. (Request ID: Root=1-6967b05d-3079943d13456cdd72342dea;af8233e0-6678-43cb-8292-7adff71928a4)
+
+Entry Not Found for url: https://huggingface.co/api/models/AndreaSimeri/LegalBERT_GDPR/tree/main/additional_chat_templates?recursive=false&expand=false.
+additional_chat_templates does not exist on ""main"""
+2026-01-14 16:03:58,studio-ousia/luke-base,"404 Client Error. (Request ID: Root=1-6967b05e-5759d4e57f476c6b1759e5c9;37a99163-9b87-4a74-9d11-5721eb23b463)
+
+Entry Not Found for url: https://huggingface.co/api/models/studio-ousia/luke-base/tree/main/additional_chat_templates?recursive=false&expand=false.
+additional_chat_templates does not exist on ""main"""
+2026-01-14 16:03:58,ahmedrachid/FinancialBERT,"404 Client Error. (Request ID: Root=1-6967b05e-5b1612806fb85c357f23f57e;b58e0dad-5512-4915-915a-29949b62fcc1)
+
+Entry Not Found for url: https://huggingface.co/api/models/ahmedrachid/FinancialBERT/tree/main/additional_chat_templates?recursive=false&expand=false.
+additional_chat_templates does not exist on ""main"""
+2026-01-14 16:03:59,google-bert/bert-base-uncased,"404 Client Error. (Request ID: Root=1-6967b05f-04bf82aa03ff8965792f3f92;ad36edb4-cce5-45d2-bb9f-c694f44ad613)
+
+Entry Not Found for url: https://huggingface.co/api/models/google-bert/bert-base-uncased/tree/main/additional_chat_templates?recursive=false&expand=false.
+additional_chat_templates does not exist on ""main"""
+2026-01-14 16:03:59,FacebookAI/roberta-base,"404 Client Error. (Request ID: Root=1-6967b05f-58ebce0f351a3e6d31fddde7;861fb390-933f-469f-87d4-76950293d7f5)
+
+Entry Not Found for url: https://huggingface.co/api/models/FacebookAI/roberta-base/tree/main/additional_chat_templates?recursive=false&expand=false.
+additional_chat_templates does not exist on ""main"""
+2026-01-14 16:03:59,FacebookAI/xlm-roberta-base,"404 Client Error. (Request ID: Root=1-6967b060-410f4cbf743bb1b83e0f8832;8db3ee36-54af-4c71-8640-09f7398e6335)
+
+Entry Not Found for url: https://huggingface.co/api/models/FacebookAI/xlm-roberta-base/tree/main/additional_chat_templates?recursive=false&expand=false.
+additional_chat_templates does not exist on ""main"""
+2026-01-14 16:04:00,google/electra-base-discriminator,"404 Client Error. (Request ID: Root=1-6967b060-39c1326b4fe6a8131a492ab5;cd406dbf-b85f-4865-a725-7bd834580252)
+
+Entry Not Found for url: https://huggingface.co/api/models/google/electra-base-discriminator/tree/main/additional_chat_templates?recursive=false&expand=false.
+additional_chat_templates does not exist on ""main"""
+2026-01-14 16:04:00,distilbert/distilbert-base-uncased,"404 Client Error. (Request ID: Root=1-6967b061-571fcf8a33507fd3126efdb9;0f2343c2-a612-4fe2-ad9e-b1f55391844e)
+
+Entry Not Found for url: https://huggingface.co/api/models/distilbert/distilbert-base-uncased/tree/main/additional_chat_templates?recursive=false&expand=false.
+additional_chat_templates does not exist on ""main"""
+2026-01-14 16:04:01,albert/albert-base-v2,"404 Client Error. (Request ID: Root=1-6967b061-4d24a72b179db524622b6e35;9ec7ebda-127b-4f55-a9ec-87dec5608f5f)
+
+Entry Not Found for url: https://huggingface.co/api/models/albert/albert-base-v2/tree/main/additional_chat_templates?recursive=false&expand=false.
+additional_chat_templates does not exist on ""main"""
+2026-01-14 16:04:01,MoritzLaurer/DeBERTa-v3-xsmall-mnli-fever-anli-ling-binary,"404 Client Error. (Request ID: Root=1-6967b062-699b72d57db90a1f4d01eb17;cd6caac3-f563-4917-86a7-9b2bfea952f4)
+
+Entry Not Found for url: https://huggingface.co/api/models/MoritzLaurer/DeBERTa-v3-xsmall-mnli-fever-anli-ling-binary/tree/main/additional_chat_templates?recursive=false&expand=false.
+additional_chat_templates does not exist on ""main"""
+2026-01-14 16:04:02,google/electra-base-discriminator,"404 Client Error. (Request ID: Root=1-6967b062-76d195102d1b671722e48e9f;0e58a321-d601-4330-b381-2d5d98670b4a)
+
+Entry Not Found for url: https://huggingface.co/api/models/google/electra-base-discriminator/tree/main/additional_chat_templates?recursive=false&expand=false.
+additional_chat_templates does not exist on ""main"""
+2026-01-14 16:04:02,nlpaueb/legal-bert-base-uncased,"404 Client Error. (Request ID: Root=1-6967b062-0e3c6e0f0edb55ba5d51262d;bd52adb4-3d8b-48c4-936a-179afaa6a099)
+
+Entry Not Found for url: https://huggingface.co/api/models/nlpaueb/legal-bert-base-uncased/tree/main/additional_chat_templates?recursive=false&expand=false.
+additional_chat_templates does not exist on ""main"""
+2026-01-14 16:04:03,nlpaueb/bert-base-uncased-contracts,"404 Client Error. (Request ID: Root=1-6967b063-74856d9a06ed13cb1a2eaa7e;dfafcb52-ad00-4351-beff-d7c4e2b1a1cd)
+
+Entry Not Found for url: https://huggingface.co/api/models/nlpaueb/bert-base-uncased-contracts/tree/main/additional_chat_templates?recursive=false&expand=false.
+additional_chat_templates does not exist on ""main"""
+2026-01-14 16:04:03,nlpaueb/bert-base-uncased-eurlex,"404 Client Error. (Request ID: Root=1-6967b064-56f84cd0007b443d4682b050;12731147-0760-49b2-8929-bb212f6eaf3d)
+
+Entry Not Found for url: https://huggingface.co/api/models/nlpaueb/bert-base-uncased-eurlex/tree/main/additional_chat_templates?recursive=false&expand=false.
+additional_chat_templates does not exist on ""main"""
+2026-01-14 16:04:04,nlpaueb/bert-base-uncased-echr,"404 Client Error. (Request ID: Root=1-6967b064-3a0681e56ef0d96a0b01fdd2;60487a1c-6e53-46cf-89de-96457d2d36d2)
+
+Entry Not Found for url: https://huggingface.co/api/models/nlpaueb/bert-base-uncased-echr/tree/main/additional_chat_templates?recursive=false&expand=false.
+additional_chat_templates does not exist on ""main"""
+2026-01-14 16:04:55,AndreaSimeri/LegalBERT_GDPR,"404 Client Error. (Request ID: Root=1-6967b097-6b918d7943db17057d0da327;1199eb8b-6cdd-44b9-b0c1-883229c679be)
+
+Entry Not Found for url: https://huggingface.co/api/models/AndreaSimeri/LegalBERT_GDPR/tree/main/additional_chat_templates?recursive=false&expand=false.
+additional_chat_templates does not exist on ""main"""
+2026-01-14 16:04:56,studio-ousia/luke-base,"404 Client Error. (Request ID: Root=1-6967b098-772bb7c37ec7c93a57375bd2;9708207c-c018-4269-a5ee-a459685c3e86)
+
+Entry Not Found for url: https://huggingface.co/api/models/studio-ousia/luke-base/tree/main/additional_chat_templates?recursive=false&expand=false.
+additional_chat_templates does not exist on ""main"""
+2026-01-14 16:04:56,ahmedrachid/FinancialBERT,"404 Client Error. (Request ID: Root=1-6967b098-487e228038cd85327d24beca;4e2cd5a5-c8d7-40a8-88e1-0f4149543240)
+
+Entry Not Found for url: https://huggingface.co/api/models/ahmedrachid/FinancialBERT/tree/main/additional_chat_templates?recursive=false&expand=false.
+additional_chat_templates does not exist on ""main"""
+2026-01-14 16:04:56,google-bert/bert-base-uncased,"404 Client Error. (Request ID: Root=1-6967b098-70e87a8a2c5d2cfe10b0c81e;73e49ef0-1d26-4ba7-85c3-ac69d960c4e3)
+
+Entry Not Found for url: https://huggingface.co/api/models/google-bert/bert-base-uncased/tree/main/additional_chat_templates?recursive=false&expand=false.
+additional_chat_templates does not exist on ""main"""
+2026-01-14 16:04:56,FacebookAI/roberta-base,"404 Client Error. (Request ID: Root=1-6967b099-2f79ccf420835d565b1ccc5e;17efc217-2297-4672-ab7d-fe5879f1802f)
+
+Entry Not Found for url: https://huggingface.co/api/models/FacebookAI/roberta-base/tree/main/additional_chat_templates?recursive=false&expand=false.
+additional_chat_templates does not exist on ""main"""
+2026-01-14 16:04:57,FacebookAI/xlm-roberta-base,"404 Client Error. (Request ID: Root=1-6967b099-7757a122005a76b334520d00;f0423a60-ae23-4e08-8ffa-281e4a6a7a6e)
+
+Entry Not Found for url: https://huggingface.co/api/models/FacebookAI/xlm-roberta-base/tree/main/additional_chat_templates?recursive=false&expand=false.
+additional_chat_templates does not exist on ""main"""
+2026-01-14 16:04:57,google/electra-base-discriminator,"404 Client Error. (Request ID: Root=1-6967b099-39f027f27bff538427e1f743;7ebb7e7e-b728-4a57-a36d-71f4a040ce2f)
+
+Entry Not Found for url: https://huggingface.co/api/models/google/electra-base-discriminator/tree/main/additional_chat_templates?recursive=false&expand=false.
+additional_chat_templates does not exist on ""main"""
+2026-01-14 16:04:57,distilbert/distilbert-base-uncased,"404 Client Error. (Request ID: Root=1-6967b09a-0a441f88107d9d8b024fc637;ccbc244f-d54b-45b7-b2b1-dce79f048437)
+
+Entry Not Found for url: https://huggingface.co/api/models/distilbert/distilbert-base-uncased/tree/main/additional_chat_templates?recursive=false&expand=false.
+additional_chat_templates does not exist on ""main"""
+2026-01-14 16:04:58,albert/albert-base-v2,"404 Client Error. (Request ID: Root=1-6967b09a-152443e6009c1b2b0b2e12fe;0916c604-7367-4367-8b45-0205824e90e7)
+
+Entry Not Found for url: https://huggingface.co/api/models/albert/albert-base-v2/tree/main/additional_chat_templates?recursive=false&expand=false.
+additional_chat_templates does not exist on ""main"""
+2026-01-14 16:04:58,MoritzLaurer/DeBERTa-v3-xsmall-mnli-fever-anli-ling-binary,"404 Client Error. (Request ID: Root=1-6967b09a-226cb8eb3ef0999f71a117da;b6d7f5ea-fad9-498a-9e1f-9aa6a11058b3)
+
+Entry Not Found for url: https://huggingface.co/api/models/MoritzLaurer/DeBERTa-v3-xsmall-mnli-fever-anli-ling-binary/tree/main/additional_chat_templates?recursive=false&expand=false.
+additional_chat_templates does not exist on ""main"""
+2026-01-14 16:04:58,google/electra-base-discriminator,"404 Client Error. (Request ID: Root=1-6967b09a-08af57fd39f4fdbb06adb0a9;9a0f1a50-18a1-4040-9df6-9117587710fe)
+
+Entry Not Found for url: https://huggingface.co/api/models/google/electra-base-discriminator/tree/main/additional_chat_templates?recursive=false&expand=false.
+additional_chat_templates does not exist on ""main"""
+2026-01-14 16:04:59,nlpaueb/legal-bert-base-uncased,"404 Client Error. (Request ID: Root=1-6967b09b-1a806e102ce373273a2f3f20;f25a1200-67b6-420c-9e26-5cbf44d8c761)
+
+Entry Not Found for url: https://huggingface.co/api/models/nlpaueb/legal-bert-base-uncased/tree/main/additional_chat_templates?recursive=false&expand=false.
+additional_chat_templates does not exist on ""main"""
+2026-01-14 16:04:59,nlpaueb/bert-base-uncased-contracts,"404 Client Error. (Request ID: Root=1-6967b09b-74a2723f6d372bf865df0f5c;405ad896-28f3-49bd-8eb0-e541f7c09453)
+
+Entry Not Found for url: https://huggingface.co/api/models/nlpaueb/bert-base-uncased-contracts/tree/main/additional_chat_templates?recursive=false&expand=false.
+additional_chat_templates does not exist on ""main"""
+2026-01-14 16:04:59,nlpaueb/bert-base-uncased-eurlex,"404 Client Error. (Request ID: Root=1-6967b09b-77f6bf205a8b22a072aff911;1a5a7d20-cb64-4c2a-9539-5dc7c2307f12)
+
+Entry Not Found for url: https://huggingface.co/api/models/nlpaueb/bert-base-uncased-eurlex/tree/main/additional_chat_templates?recursive=false&expand=false.
+additional_chat_templates does not exist on ""main"""
+2026-01-14 16:05:00,nlpaueb/bert-base-uncased-echr,"404 Client Error. (Request ID: Root=1-6967b09c-775b95454711b183704e41e6;d34e5859-18b4-4f11-ae57-d27a960c0958)
+
+Entry Not Found for url: https://huggingface.co/api/models/nlpaueb/bert-base-uncased-echr/tree/main/additional_chat_templates?recursive=false&expand=false.
+additional_chat_templates does not exist on ""main"""
+2026-01-14 16:08:01,AndreaSimeri/LegalBERT_GDPR,"404 Client Error. (Request ID: Root=1-6967b152-306f92d415949d9b64429bec;16295465-fe84-48df-b38d-6d2aa8f47db0)
+
+Entry Not Found for url: https://huggingface.co/api/models/AndreaSimeri/LegalBERT_GDPR/tree/main/additional_chat_templates?recursive=false&expand=false.
+additional_chat_templates does not exist on ""main"""
+2026-01-14 16:08:02,studio-ousia/luke-base,"404 Client Error. (Request ID: Root=1-6967b152-23e9e8af3abbb6ca699233fc;5a722c3a-807b-4f6f-9fa9-a55c7a29f2ef)
+
+Entry Not Found for url: https://huggingface.co/api/models/studio-ousia/luke-base/tree/main/additional_chat_templates?recursive=false&expand=false.
+additional_chat_templates does not exist on ""main"""
+2026-01-14 16:08:02,ahmedrachid/FinancialBERT,"404 Client Error. (Request ID: Root=1-6967b152-7d533e01121b43447ff204ef;37cdf8bb-adc6-4474-94a0-e72c7657bdd0)
+
+Entry Not Found for url: https://huggingface.co/api/models/ahmedrachid/FinancialBERT/tree/main/additional_chat_templates?recursive=false&expand=false.
+additional_chat_templates does not exist on ""main"""
+2026-01-14 16:08:02,google-bert/bert-base-uncased,"404 Client Error. (Request ID: Root=1-6967b153-2f989dc56e62038b7611cb43;b2bd06bd-6696-41e3-923e-a299d6f92cd1)
+
+Entry Not Found for url: https://huggingface.co/api/models/google-bert/bert-base-uncased/tree/main/additional_chat_templates?recursive=false&expand=false.
+additional_chat_templates does not exist on ""main"""
+2026-01-14 16:08:03,FacebookAI/roberta-base,"404 Client Error. (Request ID: Root=1-6967b153-18aa929e42b7177d7a0189bf;b5a01dfd-258e-4d93-94e7-4b7405d8e914)
+
+Entry Not Found for url: https://huggingface.co/api/models/FacebookAI/roberta-base/tree/main/additional_chat_templates?recursive=false&expand=false.
+additional_chat_templates does not exist on ""main"""
+2026-01-14 16:08:03,FacebookAI/xlm-roberta-base,"404 Client Error. (Request ID: Root=1-6967b153-75099f6b3512dd1222e83c36;758e38d7-66b8-459d-975d-bd7cb72f67d8)
+
+Entry Not Found for url: https://huggingface.co/api/models/FacebookAI/xlm-roberta-base/tree/main/additional_chat_templates?recursive=false&expand=false.
+additional_chat_templates does not exist on ""main"""
+2026-01-14 16:08:03,google/electra-base-discriminator,"404 Client Error. (Request ID: Root=1-6967b153-3817fe16656238aa449d66d5;dcbbc987-d7c5-41c1-af17-70a594a21757)
+
+Entry Not Found for url: https://huggingface.co/api/models/google/electra-base-discriminator/tree/main/additional_chat_templates?recursive=false&expand=false.
+additional_chat_templates does not exist on ""main"""
+2026-01-14 16:08:04,distilbert/distilbert-base-uncased,"404 Client Error. (Request ID: Root=1-6967b154-7fa463382558f85e7f3f8ae7;b2ac88d1-5a6b-4713-903d-f8e09e5e8b1f)
+
+Entry Not Found for url: https://huggingface.co/api/models/distilbert/distilbert-base-uncased/tree/main/additional_chat_templates?recursive=false&expand=false.
+additional_chat_templates does not exist on ""main"""
+2026-01-14 16:08:04,albert/albert-base-v2,"404 Client Error. (Request ID: Root=1-6967b154-23630c083bb9535536522189;74de2e35-97b8-4423-a8b9-b31c5635b755)
+
+Entry Not Found for url: https://huggingface.co/api/models/albert/albert-base-v2/tree/main/additional_chat_templates?recursive=false&expand=false.
+additional_chat_templates does not exist on ""main"""
+2026-01-14 16:08:04,MoritzLaurer/DeBERTa-v3-xsmall-mnli-fever-anli-ling-binary,"404 Client Error. (Request ID: Root=1-6967b154-023f4afe0f357abe00de008c;c67d1eb7-ee3b-4aa0-8776-ff2f3421dad4)
+
+Entry Not Found for url: https://huggingface.co/api/models/MoritzLaurer/DeBERTa-v3-xsmall-mnli-fever-anli-ling-binary/tree/main/additional_chat_templates?recursive=false&expand=false.
+additional_chat_templates does not exist on ""main"""
+2026-01-14 16:08:04,google/electra-base-discriminator,"404 Client Error. (Request ID: Root=1-6967b155-0516606e24719b1f3145f1e9;f09fb88b-b6cd-4b33-9cb3-71ee7ace68fc)
+
+Entry Not Found for url: https://huggingface.co/api/models/google/electra-base-discriminator/tree/main/additional_chat_templates?recursive=false&expand=false.
+additional_chat_templates does not exist on ""main"""
+2026-01-14 16:08:05,nlpaueb/legal-bert-base-uncased,"404 Client Error. (Request ID: Root=1-6967b155-093ad9df157123400cc5a7aa;9ab9e727-c517-44e2-b606-7ef5bde33594)
+
+Entry Not Found for url: https://huggingface.co/api/models/nlpaueb/legal-bert-base-uncased/tree/main/additional_chat_templates?recursive=false&expand=false.
+additional_chat_templates does not exist on ""main"""
+2026-01-14 16:08:05,nlpaueb/bert-base-uncased-contracts,"404 Client Error. (Request ID: Root=1-6967b155-059c6cde6f893b1664c08fbb;21a51879-91d1-4c40-a4a8-c57bfb0b527c)
+
+Entry Not Found for url: https://huggingface.co/api/models/nlpaueb/bert-base-uncased-contracts/tree/main/additional_chat_templates?recursive=false&expand=false.
+additional_chat_templates does not exist on ""main"""
+2026-01-14 16:08:05,nlpaueb/bert-base-uncased-eurlex,"404 Client Error. (Request ID: Root=1-6967b156-3b3a2a6a07ae07c2403b4249;91227b7d-d432-49c6-88da-7f61b7c35f4a)
+
+Entry Not Found for url: https://huggingface.co/api/models/nlpaueb/bert-base-uncased-eurlex/tree/main/additional_chat_templates?recursive=false&expand=false.
+additional_chat_templates does not exist on ""main"""
+2026-01-14 16:08:06,nlpaueb/bert-base-uncased-echr,"404 Client Error. (Request ID: Root=1-6967b156-73c5774d2a4ade427b8954f5;00a5a1c4-4002-4749-aed3-dde76af4cb78)
+
+Entry Not Found for url: https://huggingface.co/api/models/nlpaueb/bert-base-uncased-echr/tree/main/additional_chat_templates?recursive=false&expand=false.
+additional_chat_templates does not exist on ""main"""
+2026-01-14 16:08:43,AndreaSimeri/LegalBERT_GDPR,"404 Client Error. (Request ID: Root=1-6967b17b-2e93f97d423936096e0e4ba1;6ef9e5eb-cce1-46dd-92bc-a6583343476b)
+
+Entry Not Found for url: https://huggingface.co/api/models/AndreaSimeri/LegalBERT_GDPR/tree/main/additional_chat_templates?recursive=false&expand=false.
+additional_chat_templates does not exist on ""main"""
+2026-01-14 16:08:43,studio-ousia/luke-base,"404 Client Error. (Request ID: Root=1-6967b17b-69b5daef2ee3b9f80590048c;256f90f5-37dd-4051-9249-71d1e8e0347d)
+
+Entry Not Found for url: https://huggingface.co/api/models/studio-ousia/luke-base/tree/main/additional_chat_templates?recursive=false&expand=false.
+additional_chat_templates does not exist on ""main"""
+2026-01-14 16:08:43,ahmedrachid/FinancialBERT,"404 Client Error. (Request ID: Root=1-6967b17c-705f784427f2d8df4f5a0852;9fd2d4ef-650f-400e-9f34-122dbb484f0f)
+
+Entry Not Found for url: https://huggingface.co/api/models/ahmedrachid/FinancialBERT/tree/main/additional_chat_templates?recursive=false&expand=false.
+additional_chat_templates does not exist on ""main"""
+2026-01-14 16:08:44,google-bert/bert-base-uncased,"404 Client Error. (Request ID: Root=1-6967b17c-296b439566c7dffb47ebdeb0;c0e4ce8d-4663-4bde-9b0b-e09dbf2894b4)
+
+Entry Not Found for url: https://huggingface.co/api/models/google-bert/bert-base-uncased/tree/main/additional_chat_templates?recursive=false&expand=false.
+additional_chat_templates does not exist on ""main"""
+2026-01-14 16:08:44,FacebookAI/roberta-base,"404 Client Error. (Request ID: Root=1-6967b17c-5c0606a80a13a5693207c6f0;09dca85d-2330-4281-b51b-adccb2210bf2)
+
+Entry Not Found for url: https://huggingface.co/api/models/FacebookAI/roberta-base/tree/main/additional_chat_templates?recursive=false&expand=false.
+additional_chat_templates does not exist on ""main"""
+2026-01-14 16:08:44,FacebookAI/xlm-roberta-base,"404 Client Error. (Request ID: Root=1-6967b17c-6713cd323327bbee773977ff;fa061d53-a274-4b23-bf1e-f9f828497627)
+
+Entry Not Found for url: https://huggingface.co/api/models/FacebookAI/xlm-roberta-base/tree/main/additional_chat_templates?recursive=false&expand=false.
+additional_chat_templates does not exist on ""main"""
+2026-01-14 16:08:45,google/electra-base-discriminator,"404 Client Error. (Request ID: Root=1-6967b17d-7305c716192c7fe467b9ba3a;3dc3b427-da38-4fb2-beec-c38c592b6be5)
+
+Entry Not Found for url: https://huggingface.co/api/models/google/electra-base-discriminator/tree/main/additional_chat_templates?recursive=false&expand=false.
+additional_chat_templates does not exist on ""main"""
+2026-01-14 16:08:45,distilbert/distilbert-base-uncased,"404 Client Error. (Request ID: Root=1-6967b17d-388c193d310ecc1c6f8f897f;bf8bf64d-0575-4643-97fa-39b8e049c93e)
+
+Entry Not Found for url: https://huggingface.co/api/models/distilbert/distilbert-base-uncased/tree/main/additional_chat_templates?recursive=false&expand=false.
+additional_chat_templates does not exist on ""main"""
+2026-01-14 16:08:45,albert/albert-base-v2,"404 Client Error. (Request ID: Root=1-6967b17d-0f2e84cb0c57e2b86fd57d1b;2697c3d9-bb34-406e-9e45-b71e57b7be9d)
+
+Entry Not Found for url: https://huggingface.co/api/models/albert/albert-base-v2/tree/main/additional_chat_templates?recursive=false&expand=false.
+additional_chat_templates does not exist on ""main"""
+2026-01-14 16:08:45,MoritzLaurer/DeBERTa-v3-xsmall-mnli-fever-anli-ling-binary,"404 Client Error. (Request ID: Root=1-6967b17e-7b2ec08517d67597623328d7;7c2b8702-cecd-43d6-898f-26fdf97aa1d4)
+
+Entry Not Found for url: https://huggingface.co/api/models/MoritzLaurer/DeBERTa-v3-xsmall-mnli-fever-anli-ling-binary/tree/main/additional_chat_templates?recursive=false&expand=false.
+additional_chat_templates does not exist on ""main"""
+2026-01-14 16:08:46,google/electra-base-discriminator,"404 Client Error. (Request ID: Root=1-6967b17e-3aa8519167ddcf977bc00a53;db8d6e49-bca2-48bd-99fa-6ded5ed2a1f2)
+
+Entry Not Found for url: https://huggingface.co/api/models/google/electra-base-discriminator/tree/main/additional_chat_templates?recursive=false&expand=false.
+additional_chat_templates does not exist on ""main"""
+2026-01-14 16:08:46,nlpaueb/legal-bert-base-uncased,"404 Client Error. (Request ID: Root=1-6967b17e-2854b2287dd04ca916c0080e;cfb4bb57-06ae-4780-b333-369985c4d5e4)
+
+Entry Not Found for url: https://huggingface.co/api/models/nlpaueb/legal-bert-base-uncased/tree/main/additional_chat_templates?recursive=false&expand=false.
+additional_chat_templates does not exist on ""main"""
+2026-01-14 16:08:46,nlpaueb/bert-base-uncased-contracts,"404 Client Error. (Request ID: Root=1-6967b17f-06159ea4214c8e181e2a7d36;c57a1ec4-831d-49fa-833a-ce9a2d1685b0)
+
+Entry Not Found for url: https://huggingface.co/api/models/nlpaueb/bert-base-uncased-contracts/tree/main/additional_chat_templates?recursive=false&expand=false.
+additional_chat_templates does not exist on ""main"""
+2026-01-14 16:08:47,nlpaueb/bert-base-uncased-eurlex,"404 Client Error. (Request ID: Root=1-6967b17f-6198434e7038977b5d414c8f;e219140f-0253-4c75-b462-2a933d9dad06)
+
+Entry Not Found for url: https://huggingface.co/api/models/nlpaueb/bert-base-uncased-eurlex/tree/main/additional_chat_templates?recursive=false&expand=false.
+additional_chat_templates does not exist on ""main"""
+2026-01-14 16:08:47,nlpaueb/bert-base-uncased-echr,"404 Client Error. (Request ID: Root=1-6967b17f-4533a00e2db088de52619304;fcdf95fb-29bc-4a46-8f6c-cc59d7167919)
+
+Entry Not Found for url: https://huggingface.co/api/models/nlpaueb/bert-base-uncased-echr/tree/main/additional_chat_templates?recursive=false&expand=false.
+additional_chat_templates does not exist on ""main"""
+2026-01-15 09:59:11,MoritzLaurer/DeBERTa-v3-xsmall-mnli-fever-anli-ling-binary,"
+ requires the protobuf library but it was not found in your environment. Check out the instructions on the
+installation page of its repo: https://github.com/protocolbuffers/protobuf/tree/master/python#installation and follow the ones
+that match your environment. Please note that you may need to restart your runtime after installation.
+"
+2026-01-15 10:16:08,MoritzLaurer/DeBERTa-v3-xsmall-mnli-fever-anli-ling-binary,'NoneType' object has no attribute 'endswith'
+2026-01-15 10:16:55,MoritzLaurer/DeBERTa-v3-xsmall-mnli-fever-anli-ling-binary,'NoneType' object has no attribute 'endswith'
+2026-01-21 11:11:24,AndreaSimeri/LegalBERT_GDPR,"""The `metric_for_best_model` training argument is set to 'eval_recall', which is not found in the evaluation metrics. The available evaluation metrics are: ['eval_loss', 'eval_accuracy']. Consider changing the `metric_for_best_model` via the TrainingArguments."""
+2026-01-21 11:12:56,studio-ousia/luke-base,"""The `metric_for_best_model` training argument is set to 'eval_recall', which is not found in the evaluation metrics. The available evaluation metrics are: ['eval_loss', 'eval_accuracy']. Consider changing the `metric_for_best_model` via the TrainingArguments."""
+2026-01-21 11:13:59,ahmedrachid/FinancialBERT,"""The `metric_for_best_model` training argument is set to 'eval_recall', which is not found in the evaluation metrics. The available evaluation metrics are: ['eval_loss', 'eval_accuracy']. Consider changing the `metric_for_best_model` via the TrainingArguments."""
+2026-01-21 11:15:00,google-bert/bert-base-uncased,"""The `metric_for_best_model` training argument is set to 'eval_recall', which is not found in the evaluation metrics. The available evaluation metrics are: ['eval_loss', 'eval_accuracy']. Consider changing the `metric_for_best_model` via the TrainingArguments."""
+2026-01-21 11:15:59,FacebookAI/roberta-base,"""The `metric_for_best_model` training argument is set to 'eval_recall', which is not found in the evaluation metrics. The available evaluation metrics are: ['eval_loss', 'eval_accuracy']. Consider changing the `metric_for_best_model` via the TrainingArguments."""
+2026-01-21 11:17:06,FacebookAI/xlm-roberta-base,"""The `metric_for_best_model` training argument is set to 'eval_recall', which is not found in the evaluation metrics. The available evaluation metrics are: ['eval_loss', 'eval_accuracy']. Consider changing the `metric_for_best_model` via the TrainingArguments."""
+2026-01-21 11:18:23,google/electra-base-discriminator,"""The `metric_for_best_model` training argument is set to 'eval_recall', which is not found in the evaluation metrics. The available evaluation metrics are: ['eval_loss', 'eval_accuracy']. Consider changing the `metric_for_best_model` via the TrainingArguments."""
+2026-01-21 11:18:58,distilbert/distilbert-base-uncased,"""The `metric_for_best_model` training argument is set to 'eval_recall', which is not found in the evaluation metrics. The available evaluation metrics are: ['eval_loss', 'eval_accuracy']. Consider changing the `metric_for_best_model` via the TrainingArguments."""
