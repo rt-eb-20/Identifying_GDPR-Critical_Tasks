@@ -1,0 +1,12 @@
+TimeStamp,UsedNotebook,ModelName,Metric,Value
+2026-01-27 16:18:43.624481,TransformerComparison.ipynb,nlpaueb/bert-base-uncased-eurlex,Macro_BalancedAccuracy,0.8460889672295824
+2026-01-27 16:18:43.624481,TransformerComparison.ipynb,nlpaueb/bert-base-uncased-eurlex,Macro_Precision,0.8460430563978169
+2026-01-27 16:18:43.624481,TransformerComparison.ipynb,nlpaueb/bert-base-uncased-eurlex,Macro_Recall,0.8460889672295824
+2026-01-27 16:18:43.624481,TransformerComparison.ipynb,nlpaueb/bert-base-uncased-eurlex,Macro_F1-Score,0.8454771430600602
+2026-01-27 16:18:43.624481,TransformerComparison.ipynb,nlpaueb/bert-base-uncased-eurlex,AreaUnderTheCurve,0.9228849592186146
+2026-01-27 16:18:43.624481,TransformerComparison.ipynb,nlpaueb/bert-base-uncased-eurlex,Micro_Precision_Crit,0.8685567010309279
+2026-01-27 16:18:43.624481,TransformerComparison.ipynb,nlpaueb/bert-base-uncased-eurlex,Micro_Recall_Crit,0.823960880195599
+2026-01-27 16:18:43.624481,TransformerComparison.ipynb,nlpaueb/bert-base-uncased-eurlex,Micro_F1_Crit,0.8456712672521958
+2026-01-27 16:18:43.624481,TransformerComparison.ipynb,nlpaueb/bert-base-uncased-eurlex,Micro_Precision_UnCrit,0.8235294117647058
+2026-01-27 16:18:43.624481,TransformerComparison.ipynb,nlpaueb/bert-base-uncased-eurlex,Micro_Recall_UnCrit,0.8682170542635659
+2026-01-27 16:18:43.624481,TransformerComparison.ipynb,nlpaueb/bert-base-uncased-eurlex,Micro_F1_UnCrit,0.8452830188679246

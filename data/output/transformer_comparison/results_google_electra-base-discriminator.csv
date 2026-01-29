@@ -1,0 +1,12 @@
+TimeStamp,UsedNotebook,ModelName,Metric,Value
+2026-01-29 15:35:19.566741,1-TransformerComparison.ipynb,google/electra-base-discriminator,Macro_BalancedAccuracy,0.8699418130816323
+2026-01-29 15:35:19.566741,1-TransformerComparison.ipynb,google/electra-base-discriminator,Macro_Precision,0.8698483479974483
+2026-01-29 15:35:19.566741,1-TransformerComparison.ipynb,google/electra-base-discriminator,Macro_Recall,0.8699418130816323
+2026-01-29 15:35:19.566741,1-TransformerComparison.ipynb,google/electra-base-discriminator,Macro_F1-Score,0.8693459088527364
+2026-01-29 15:35:19.566741,1-TransformerComparison.ipynb,google/electra-base-discriminator,AreaUnderTheCurve,0.9320204949362849
+2026-01-29 15:35:19.566741,1-TransformerComparison.ipynb,google/electra-base-discriminator,Micro_Precision_Crit,0.8920308483290489
+2026-01-29 15:35:19.566741,1-TransformerComparison.ipynb,google/electra-base-discriminator,Micro_Recall_Crit,0.8484107579462102
+2026-01-29 15:35:19.566741,1-TransformerComparison.ipynb,google/electra-base-discriminator,Micro_F1_Crit,0.8696741854636592
+2026-01-29 15:35:19.566741,1-TransformerComparison.ipynb,google/electra-base-discriminator,Micro_Precision_UnCrit,0.8476658476658476
+2026-01-29 15:35:19.566741,1-TransformerComparison.ipynb,google/electra-base-discriminator,Micro_Recall_UnCrit,0.8914728682170543
+2026-01-29 15:35:19.566741,1-TransformerComparison.ipynb,google/electra-base-discriminator,Micro_F1_UnCrit,0.8690176322418136

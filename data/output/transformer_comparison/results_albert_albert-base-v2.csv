@@ -1,0 +1,12 @@
+TimeStamp,UsedNotebook,ModelName,Metric,Value
+2026-01-29 15:40:42.805567,1-TransformerComparison.ipynb,albert/albert-base-v2,Macro_BalancedAccuracy,0.8761932740723892
+2026-01-29 15:40:42.805567,1-TransformerComparison.ipynb,albert/albert-base-v2,Macro_Precision,0.8760578501957812
+2026-01-29 15:40:42.805567,1-TransformerComparison.ipynb,albert/albert-base-v2,Macro_Recall,0.8761932740723892
+2026-01-29 15:40:42.805567,1-TransformerComparison.ipynb,albert/albert-base-v2,Macro_F1-Score,0.8756263740773066
+2026-01-29 15:40:42.805567,1-TransformerComparison.ipynb,albert/albert-base-v2,AreaUnderTheCurve,0.9246602604196282
+2026-01-29 15:40:42.805567,1-TransformerComparison.ipynb,albert/albert-base-v2,Micro_Precision_Crit,0.8974358974358975
+2026-01-29 15:40:42.805567,1-TransformerComparison.ipynb,albert/albert-base-v2,Micro_Recall_Crit,0.8557457212713936
+2026-01-29 15:40:42.805567,1-TransformerComparison.ipynb,albert/albert-base-v2,Micro_F1_Crit,0.8760951188986232
+2026-01-29 15:40:42.805567,1-TransformerComparison.ipynb,albert/albert-base-v2,Micro_Precision_UnCrit,0.854679802955665
+2026-01-29 15:40:42.805567,1-TransformerComparison.ipynb,albert/albert-base-v2,Micro_Recall_UnCrit,0.896640826873385
+2026-01-29 15:40:42.805567,1-TransformerComparison.ipynb,albert/albert-base-v2,Micro_F1_UnCrit,0.8751576292559899

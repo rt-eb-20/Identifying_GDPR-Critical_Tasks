@@ -1,0 +1,12 @@
+TimeStamp,UsedNotebook,ModelName,Metric,Value
+2026-01-29 15:27:44.377275,1-TransformerComparison.ipynb,FacebookAI/roberta-base,Macro_BalancedAccuracy,0.8795827726287725
+2026-01-29 15:27:44.377275,1-TransformerComparison.ipynb,FacebookAI/roberta-base,Macro_Precision,0.8793143722971053
+2026-01-29 15:27:44.377275,1-TransformerComparison.ipynb,FacebookAI/roberta-base,Macro_Recall,0.8795827726287725
+2026-01-29 15:27:44.377275,1-TransformerComparison.ipynb,FacebookAI/roberta-base,Macro_F1-Score,0.8793596665719428
+2026-01-29 15:27:44.377275,1-TransformerComparison.ipynb,FacebookAI/roberta-base,AreaUnderTheCurve,0.9434178022908335
+2026-01-29 15:27:44.377275,1-TransformerComparison.ipynb,FacebookAI/roberta-base,Micro_Precision_Crit,0.8902743142144638
+2026-01-29 15:27:44.377275,1-TransformerComparison.ipynb,FacebookAI/roberta-base,Micro_Recall_Crit,0.8728606356968215
+2026-01-29 15:27:44.377275,1-TransformerComparison.ipynb,FacebookAI/roberta-base,Micro_F1_Crit,0.8814814814814815
+2026-01-29 15:27:44.377275,1-TransformerComparison.ipynb,FacebookAI/roberta-base,Micro_Precision_UnCrit,0.8683544303797468
+2026-01-29 15:27:44.377275,1-TransformerComparison.ipynb,FacebookAI/roberta-base,Micro_Recall_UnCrit,0.8863049095607235
+2026-01-29 15:27:44.377275,1-TransformerComparison.ipynb,FacebookAI/roberta-base,Micro_F1_UnCrit,0.8772378516624041

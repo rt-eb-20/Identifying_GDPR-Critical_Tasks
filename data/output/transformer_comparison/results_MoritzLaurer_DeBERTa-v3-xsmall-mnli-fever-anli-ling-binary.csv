@@ -1,0 +1,12 @@
+TimeStamp,UsedNotebook,ModelName,Metric,Value
+2026-01-29 15:43:44.377888,1-TransformerComparison.ipynb,MoritzLaurer/DeBERTa-v3-xsmall-mnli-fever-anli-ling-binary,Macro_BalancedAccuracy,0.8194310191239742
+2026-01-29 15:43:44.377888,1-TransformerComparison.ipynb,MoritzLaurer/DeBERTa-v3-xsmall-mnli-fever-anli-ling-binary,Macro_Precision,0.8309388070349983
+2026-01-29 15:43:44.377888,1-TransformerComparison.ipynb,MoritzLaurer/DeBERTa-v3-xsmall-mnli-fever-anli-ling-binary,Macro_Recall,0.8194310191239742
+2026-01-29 15:43:44.377888,1-TransformerComparison.ipynb,MoritzLaurer/DeBERTa-v3-xsmall-mnli-fever-anli-ling-binary,Macro_F1-Score,0.8153895031134832
+2026-01-29 15:43:44.377888,1-TransformerComparison.ipynb,MoritzLaurer/DeBERTa-v3-xsmall-mnli-fever-anli-ling-binary,AreaUnderTheCurve,0.8968366786073045
+2026-01-29 15:43:44.377888,1-TransformerComparison.ipynb,MoritzLaurer/DeBERTa-v3-xsmall-mnli-fever-anli-ling-binary,Micro_Precision_Crit,0.9071207430340558
+2026-01-29 15:43:44.377888,1-TransformerComparison.ipynb,MoritzLaurer/DeBERTa-v3-xsmall-mnli-fever-anli-ling-binary,Micro_Recall_Crit,0.7163814180929096
+2026-01-29 15:43:44.377888,1-TransformerComparison.ipynb,MoritzLaurer/DeBERTa-v3-xsmall-mnli-fever-anli-ling-binary,Micro_F1_Crit,0.8005464480874317
+2026-01-29 15:43:44.377888,1-TransformerComparison.ipynb,MoritzLaurer/DeBERTa-v3-xsmall-mnli-fever-anli-ling-binary,Micro_Precision_UnCrit,0.7547568710359408
+2026-01-29 15:43:44.377888,1-TransformerComparison.ipynb,MoritzLaurer/DeBERTa-v3-xsmall-mnli-fever-anli-ling-binary,Micro_Recall_UnCrit,0.9224806201550387
+2026-01-29 15:43:44.377888,1-TransformerComparison.ipynb,MoritzLaurer/DeBERTa-v3-xsmall-mnli-fever-anli-ling-binary,Micro_F1_UnCrit,0.8302325581395349

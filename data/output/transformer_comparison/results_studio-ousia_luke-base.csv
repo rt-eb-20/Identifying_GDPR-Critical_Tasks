@@ -1,0 +1,12 @@
+TimeStamp,UsedNotebook,ModelName,Metric,Value
+2026-01-29 15:18:22.561965,1-TransformerComparison.ipynb,studio-ousia/luke-base,Macro_BalancedAccuracy,0.8684413360878932
+2026-01-29 15:18:22.561965,1-TransformerComparison.ipynb,studio-ousia/luke-base,Macro_Precision,0.868169191919192
+2026-01-29 15:18:22.561965,1-TransformerComparison.ipynb,studio-ousia/luke-base,Macro_Recall,0.8684413360878932
+2026-01-29 15:18:22.561965,1-TransformerComparison.ipynb,studio-ousia/luke-base,Macro_F1-Score,0.8680735870946357
+2026-01-29 15:18:22.561965,1-TransformerComparison.ipynb,studio-ousia/luke-base,AreaUnderTheCurve,0.9443844253646949
+2026-01-29 15:18:22.561965,1-TransformerComparison.ipynb,studio-ousia/luke-base,Micro_Precision_Crit,0.8838383838383839
+2026-01-29 15:18:22.561965,1-TransformerComparison.ipynb,studio-ousia/luke-base,Micro_Recall_Crit,0.8557457212713936
+2026-01-29 15:18:22.561965,1-TransformerComparison.ipynb,studio-ousia/luke-base,Micro_F1_Crit,0.8695652173913043
+2026-01-29 15:18:22.561965,1-TransformerComparison.ipynb,studio-ousia/luke-base,Micro_Precision_UnCrit,0.8525
+2026-01-29 15:18:22.561965,1-TransformerComparison.ipynb,studio-ousia/luke-base,Micro_Recall_UnCrit,0.8811369509043928
+2026-01-29 15:18:22.561965,1-TransformerComparison.ipynb,studio-ousia/luke-base,Micro_F1_UnCrit,0.866581956797967

@@ -1,0 +1,12 @@
+TimeStamp,UsedNotebook,ModelName,Metric,Value
+2026-01-27 16:11:38.337661,TransformerComparison.ipynb,nlpaueb/legal-bert-base-uncased,Macro_BalancedAccuracy,0.8670103548707062
+2026-01-27 16:11:38.337661,TransformerComparison.ipynb,nlpaueb/legal-bert-base-uncased,Macro_Precision,0.8667508444079675
+2026-01-27 16:11:38.337661,TransformerComparison.ipynb,nlpaueb/legal-bert-base-uncased,Macro_Recall,0.8670103548707062
+2026-01-27 16:11:38.337661,TransformerComparison.ipynb,nlpaueb/legal-bert-base-uncased,Macro_F1-Score,0.8667929651731868
+2026-01-27 16:11:38.337661,TransformerComparison.ipynb,nlpaueb/legal-bert-base-uncased,AreaUnderTheCurve,0.9272568753435303
+2026-01-27 16:11:38.337661,TransformerComparison.ipynb,nlpaueb/legal-bert-base-uncased,Micro_Precision_Crit,0.8778054862842892
+2026-01-27 16:11:38.337661,TransformerComparison.ipynb,nlpaueb/legal-bert-base-uncased,Micro_Recall_Crit,0.8606356968215159
+2026-01-27 16:11:38.337661,TransformerComparison.ipynb,nlpaueb/legal-bert-base-uncased,Micro_F1_Crit,0.8691358024691358
+2026-01-27 16:11:38.337661,TransformerComparison.ipynb,nlpaueb/legal-bert-base-uncased,Micro_Precision_UnCrit,0.8556962025316456
+2026-01-27 16:11:38.337661,TransformerComparison.ipynb,nlpaueb/legal-bert-base-uncased,Micro_Recall_UnCrit,0.8733850129198967
+2026-01-27 16:11:38.337661,TransformerComparison.ipynb,nlpaueb/legal-bert-base-uncased,Micro_F1_UnCrit,0.8644501278772379

@@ -1,0 +1,12 @@
+TimeStamp,UsedNotebook,ModelName,Metric,Value
+2026-01-29 15:36:58.385348,1-TransformerComparison.ipynb,distilbert/distilbert-base-uncased,Macro_BalancedAccuracy,0.8453940094640612
+2026-01-29 15:36:58.385348,1-TransformerComparison.ipynb,distilbert/distilbert-base-uncased,Macro_Precision,0.8453481908227208
+2026-01-29 15:36:58.385348,1-TransformerComparison.ipynb,distilbert/distilbert-base-uncased,Macro_Recall,0.8453940094640612
+2026-01-29 15:36:58.385348,1-TransformerComparison.ipynb,distilbert/distilbert-base-uncased,Macro_F1-Score,0.8453697634935049
+2026-01-29 15:36:58.385348,1-TransformerComparison.ipynb,distilbert/distilbert-base-uncased,AreaUnderTheCurve,0.9243506883240777
+2026-01-29 15:36:58.385348,1-TransformerComparison.ipynb,distilbert/distilbert-base-uncased,Micro_Precision_Crit,0.8504901960784313
+2026-01-29 15:36:58.385348,1-TransformerComparison.ipynb,distilbert/distilbert-base-uncased,Micro_Recall_Crit,0.8484107579462102
+2026-01-29 15:36:58.385348,1-TransformerComparison.ipynb,distilbert/distilbert-base-uncased,Micro_F1_Crit,0.8494492044063647
+2026-01-29 15:36:58.385348,1-TransformerComparison.ipynb,distilbert/distilbert-base-uncased,Micro_Precision_UnCrit,0.8402061855670103
+2026-01-29 15:36:58.385348,1-TransformerComparison.ipynb,distilbert/distilbert-base-uncased,Micro_Recall_UnCrit,0.8423772609819121
+2026-01-29 15:36:58.385348,1-TransformerComparison.ipynb,distilbert/distilbert-base-uncased,Micro_F1_UnCrit,0.8412903225806452

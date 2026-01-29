@@ -1,0 +1,12 @@
+TimeStamp,UsedNotebook,ModelName,Metric,Value
+2026-01-29 15:21:31.476144,1-TransformerComparison.ipynb,ahmedrachid/FinancialBERT,Macro_BalancedAccuracy,0.8415180404718131
+2026-01-29 15:21:31.476144,1-TransformerComparison.ipynb,ahmedrachid/FinancialBERT,Macro_Precision,0.8416216387019306
+2026-01-29 15:21:31.476144,1-TransformerComparison.ipynb,ahmedrachid/FinancialBERT,Macro_Recall,0.8415180404718131
+2026-01-29 15:21:31.476144,1-TransformerComparison.ipynb,ahmedrachid/FinancialBERT,Macro_F1-Score,0.8415645140907367
+2026-01-29 15:21:31.476144,1-TransformerComparison.ipynb,ahmedrachid/FinancialBERT,AreaUnderTheCurve,0.9150256186703564
+2026-01-29 15:21:31.476144,1-TransformerComparison.ipynb,ahmedrachid/FinancialBERT,Micro_Precision_Crit,0.8442822384428224
+2026-01-29 15:21:31.476144,1-TransformerComparison.ipynb,ahmedrachid/FinancialBERT,Micro_Recall_Crit,0.8484107579462102
+2026-01-29 15:21:31.476144,1-TransformerComparison.ipynb,ahmedrachid/FinancialBERT,Micro_F1_Crit,0.8463414634146341
+2026-01-29 15:21:31.476144,1-TransformerComparison.ipynb,ahmedrachid/FinancialBERT,Micro_Precision_UnCrit,0.8389610389610389
+2026-01-29 15:21:31.476144,1-TransformerComparison.ipynb,ahmedrachid/FinancialBERT,Micro_Recall_UnCrit,0.834625322997416
+2026-01-29 15:21:31.476144,1-TransformerComparison.ipynb,ahmedrachid/FinancialBERT,Micro_F1_UnCrit,0.8367875647668394

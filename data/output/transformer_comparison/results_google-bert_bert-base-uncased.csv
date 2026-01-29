@@ -1,0 +1,12 @@
+TimeStamp,UsedNotebook,ModelName,Metric,Value
+2026-01-29 15:24:38.760542,1-TransformerComparison.ipynb,google-bert/bert-base-uncased,Macro_BalancedAccuracy,0.83408515127967
+2026-01-29 15:24:38.760542,1-TransformerComparison.ipynb,google-bert/bert-base-uncased,Macro_Precision,0.8383497133497133
+2026-01-29 15:24:38.760542,1-TransformerComparison.ipynb,google-bert/bert-base-uncased,Macro_Recall,0.83408515127967
+2026-01-29 15:24:38.760542,1-TransformerComparison.ipynb,google-bert/bert-base-uncased,Macro_F1-Score,0.8345789040352684
+2026-01-29 15:24:38.760542,1-TransformerComparison.ipynb,google-bert/bert-base-uncased,AreaUnderTheCurve,0.9028449043801293
+2026-01-29 15:24:38.760542,1-TransformerComparison.ipynb,google-bert/bert-base-uncased,Micro_Precision_Crit,0.8130630630630631
+2026-01-29 15:24:38.760542,1-TransformerComparison.ipynb,google-bert/bert-base-uncased,Micro_Recall_Crit,0.882640586797066
+2026-01-29 15:24:38.760542,1-TransformerComparison.ipynb,google-bert/bert-base-uncased,Micro_F1_Crit,0.8464243845252052
+2026-01-29 15:24:38.760542,1-TransformerComparison.ipynb,google-bert/bert-base-uncased,Micro_Precision_UnCrit,0.8636363636363636
+2026-01-29 15:24:38.760542,1-TransformerComparison.ipynb,google-bert/bert-base-uncased,Micro_Recall_UnCrit,0.7855297157622739
+2026-01-29 15:24:38.760542,1-TransformerComparison.ipynb,google-bert/bert-base-uncased,Micro_F1_UnCrit,0.8227334235453315

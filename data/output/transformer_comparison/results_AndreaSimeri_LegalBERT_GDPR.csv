@@ -1,0 +1,12 @@
+TimeStamp,UsedNotebook,ModelName,Metric,Value
+2026-01-29 15:14:02.657571,1-TransformerComparison.ipynb,AndreaSimeri/LegalBERT_GDPR,Macro_BalancedAccuracy,0.8738177820738804
+2026-01-29 15:14:02.657571,1-TransformerComparison.ipynb,AndreaSimeri/LegalBERT_GDPR,Macro_Precision,0.8738721091874131
+2026-01-29 15:14:02.657571,1-TransformerComparison.ipynb,AndreaSimeri/LegalBERT_GDPR,Macro_Recall,0.8738177820738804
+2026-01-29 15:14:02.657571,1-TransformerComparison.ipynb,AndreaSimeri/LegalBERT_GDPR,Macro_F1-Score,0.8731153776346836
+2026-01-29 15:14:02.657571,1-TransformerComparison.ipynb,AndreaSimeri/LegalBERT_GDPR,AreaUnderTheCurve,0.9312181346070014
+2026-01-29 15:14:02.657571,1-TransformerComparison.ipynb,AndreaSimeri/LegalBERT_GDPR,Micro_Precision_Crit,0.8989637305699482
+2026-01-29 15:14:02.657571,1-TransformerComparison.ipynb,AndreaSimeri/LegalBERT_GDPR,Micro_Recall_Crit,0.8484107579462102
+2026-01-29 15:14:02.657571,1-TransformerComparison.ipynb,AndreaSimeri/LegalBERT_GDPR,Micro_F1_Crit,0.8729559748427673
+2026-01-29 15:14:02.657571,1-TransformerComparison.ipynb,AndreaSimeri/LegalBERT_GDPR,Micro_Precision_UnCrit,0.848780487804878
+2026-01-29 15:14:02.657571,1-TransformerComparison.ipynb,AndreaSimeri/LegalBERT_GDPR,Micro_Recall_UnCrit,0.8992248062015504
+2026-01-29 15:14:02.657571,1-TransformerComparison.ipynb,AndreaSimeri/LegalBERT_GDPR,Micro_F1_UnCrit,0.8732747804265998
