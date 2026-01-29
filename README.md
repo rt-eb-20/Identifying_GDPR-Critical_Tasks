@@ -45,8 +45,6 @@ project/
 │       └── ExternalValidationDataset.csv
 ├── models/
 ├── logs/
-├── results/
-│   └── xai_analysis/
 ├── notebooks/
     ├── 1-TransformerComparison.ipynb
     ├── 2-ModelValidation.ipynb
