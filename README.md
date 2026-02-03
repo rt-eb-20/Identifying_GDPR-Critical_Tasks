@@ -248,14 +248,14 @@ For maximum reproducibility on GPU, set `deterministic=True`, though this may re
 If you use this replication package, please cite:
 
 ```
-[@Leo your part]
+[Will be added after publication]
 ```
 
 ---
 
 ## License
 ```
-[@Leo your part]
+[Will be added after publication]
 ```
 ---
 
@@ -263,7 +263,7 @@ If you use this replication package, please cite:
 
 For questions or issues, please contact:
 ```
-[@Leo your part]
+[Will be added after publication]
 ```
 
 ---
@@ -275,3 +275,4 @@ For questions or issues, please contact:
 - Unified and documented three core notebooks
 - Standardized common functions with comprehensive docstrings
 - Added detailed README with usage instructions
+
