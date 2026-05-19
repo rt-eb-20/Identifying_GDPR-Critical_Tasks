@@ -249,7 +249,8 @@ If you use this replication package, please cite:
 
 ```
 Nake, L., Theuerkauf, R., Sackmann, S. & Kuehnel, S. (2026): 
-Identifying GDPR-Critical Tasks in Business Process Descriptions – An Automatic Approach Trained on a Synthetic Data Set. 
+Identifying GDPR-Critical Tasks in Business Process Descriptions – 
+An Automatic Approach Trained on a Synthetic Data Set. 
 Business & Information Systems Engineering, forthcoming
 ```
 
@@ -265,7 +266,9 @@ MIT
 
 For questions or issues, please contact:
 ```
-Leornard Nake @leonard.nake@wiwi.uni-halle.de, Martin-Luther-University Halle-Wittenberg
+Leornard Nake 
+@leonard.nake@wiwi.uni-halle.de
+Martin-Luther-University Halle-Wittenberg
 ```
 
 ---
