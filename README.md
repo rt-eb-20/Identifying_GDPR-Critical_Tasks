@@ -1,4 +1,4 @@
-# GDPR - Replication Package
+# Identifying GDPR-Critical Tasks in Business Process Descriptions – An Automatic Approach Trained on a Synthetic Data Set: Replication Package
 
 This replication package contains Jupyter notebooks for training, validating, and explaining transformer-based models 
 for detection of processes in the context of GDPR-critical business process requirements.
