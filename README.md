@@ -248,14 +248,14 @@ For maximum reproducibility on GPU, set `deterministic=True`, though this may re
 If you use this replication package, please cite:
 
 ```
-[Will be added after publication]
+[Nake, L., Theuerkauf, R., Sackmann, S. & Kuehnel, S. (2026): Identifying GDPR-Critical Tasks in Business Process Descriptions – An Automatic Approach Trained on a Synthetic Data Set. Business & Information Systems Engineering, forthcoming]
 ```
 
 ---
 
 ## License
 ```
-[Will be added after publication]
+[MIT]
 ```
 ---
 
@@ -263,7 +263,7 @@ If you use this replication package, please cite:
 
 For questions or issues, please contact:
 ```
-[Will be added after publication]
+[Leornard Nake @leonard.nake@wiwi.uni-halle.de, Martin-Luther-University Halle-Wittenberg]
 ```
 
 ---
