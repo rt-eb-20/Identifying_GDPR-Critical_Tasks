@@ -75,7 +75,7 @@ The CSV separator should be `;` and encoding `latin1`.
 
 **Usage**:
 1. Place training data in `../data/input/ProcessDataset.csv`
-2. Modify `MODEL_NAMES` list to include desired models
+2. Modify `MODEL_NAMES_LIST` to include desired models
 3. Run all cells sequentially
 4. Models will be trained and saved to `../models/`
 
@@ -86,9 +86,9 @@ The CSV separator should be `;` and encoding `latin1`.
 
 **Configuration**:
 - Training epochs: 3
-- Learning rate: 2e-5
+- Learning rate: 1e-5
 - Batch size: 8
-- Train/Val/Test split: 70/15/15
+- Train/Val/Test split: 60/20/20
 - Metric for model selection: Recall
 
 ---
