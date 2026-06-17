@@ -48,7 +48,8 @@ project/
 ├── notebooks/
 │   ├── 1-TransformerComparison.ipynb
 │   ├── 2-ModelValidation.ipynb
-│   └── 3-XAI.ipynb
+│   ├── 3-XAI.ipynb
+│   └── 3-RobustnessCheck.ipynb
 ├── README.md
 └── requirements.txt
 ```
@@ -148,6 +149,14 @@ This provides a principled explanation of which words most influenced the model'
 
 ---
 
+### 4. RobustnessCheck.ipynb
+
+**Purpose**: Conducts robustness check for a StratifiedGroupKFold-Process split.
+
+**Key Features**: Process follows the procedure of script 1. TransformerComparison.ipynb just using different splitting criteria
+
+---
+
 ## Common Functions
 
 All notebooks share the following standardized functions:
@@ -156,7 +165,7 @@ All notebooks share the following standardized functions:
 Sets random seeds for reproducibility across Python, NumPy, PyTorch, and Transformers.
 
 **Parameters**:
-- `seed` (int): Random seed value (default: 42)
+- `seed` (int): Random seed value
 - `deterministic` (bool): Enable deterministic CUDA operations for full reproducibility
 
 ### `log_error(error_message, model_name="Unknown")`
@@ -188,7 +197,7 @@ Computes evaluation metrics from model predictions.
 
 ## Reproducibility
 
-All notebooks use a fixed random seed (SEED=42) to ensure reproducible results. The `set_all_seeds()` function sets seeds for:
+All notebooks use a fixed random seed to ensure reproducible results. The `set_all_seeds()` function sets seeds for:
 - Python's `random` module
 - NumPy's random number generator
 - PyTorch's CPU and CUDA random number generators
@@ -280,4 +289,9 @@ Martin-Luther-University Halle-Wittenberg
 - Unified and documented three core notebooks
 - Standardized common functions with comprehensive docstrings
 - Added detailed README with usage instructions
+
+### Version 1.1 (2026-06-17)
+- Add robustness check using process splitting criteria in script 4-RobustnessCheck
+- Cleanup figures, output_data, logs
+- Added robustness output files 
 
